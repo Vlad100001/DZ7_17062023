@@ -1,0 +1,15 @@
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\obj\Debug\net6.0\ex 52.csproj.AssemblyReference.cache
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\obj\Debug\net6.0\ex 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\obj\Debug\net6.0\ex 52.AssemblyInfoInputs.cache
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\obj\Debug\net6.0\ex 52.AssemblyInfo.cs
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\obj\Debug\net6.0\ex 52.csproj.CoreCompileInputs.cache
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\bin\Debug\net6.0\ex 52.exe
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\bin\Debug\net6.0\ex 52.deps.json
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\bin\Debug\net6.0\ex 52.runtimeconfig.json
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\bin\Debug\net6.0\ex 52.dll
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\bin\Debug\net6.0\ex 52.pdb
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\obj\Debug\net6.0\ex 52.dll
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\obj\Debug\net6.0\refint\ex 52.dll
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\obj\Debug\net6.0\ex 52.pdb
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\obj\Debug\net6.0\ex 52.genruntimeconfig.cache
+C:\Users\ДОМ\Downloads\DZ7_17062023\DZ7_17062023\ex 52\obj\Debug\net6.0\ref\ex 52.dll
